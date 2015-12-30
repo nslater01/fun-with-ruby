@@ -1,1 +1,1 @@
-puts "I am one step closer to beginning a new carrer in tech!"
+puts "I'm one step closer to my goal of working in tech!"
