@@ -1,1 +1,0 @@
-puts "I'm one step closer to my goal of working in tech!"
